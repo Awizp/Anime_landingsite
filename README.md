@@ -12,3 +12,4 @@
 5. SPA landed page only using Bootstrap and CSS only (JS functions fetched for some functions)
 
 # Check the site
+https://awizp.github.io/Anime_landingsite/
