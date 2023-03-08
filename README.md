@@ -1,8 +1,14 @@
-Anime website Landing site
+# Simple landing Page - Anime website
 
 * Responsive SPA landing page 
-* Responsive Personal Portfolio Website Using HTML, CSS & Bootstrap
-* Smooth scrolling in each section.
-* Compatible with all mobile devices and with a beautiful pleasant user interface.
+* Smooth scrolling in each section
 
-![Untitled design (4)](https://user-images.githubusercontent.com/64133659/208448063-a3a256bd-5830-44a7-a1ef-c613b36d0f5c.png)
+![SPA website](https://user-images.githubusercontent.com/64133659/223738966-124194ee-8197-4d84-b851-44b5b8180542.png)
+
+1. Used BootStrap CDN link to fetch BootStrap4 in document seection
+2. Used Navbar element to navigate each pages by BootStrap
+3. Added button and carousal elements in BootStrap and used default colours also which it has given
+4. Added responsive layout both mobile and desktop
+5. SPA landed page only using Bootstrap and CSS only (JS functions fetched for some functions)
+
+# Check the site
